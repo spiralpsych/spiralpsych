@@ -1,0 +1,1 @@
+![cat](https://github.com/spiralpsych/spiralpsych/blob/main/cat-ice-cream.gif?raw=true)
